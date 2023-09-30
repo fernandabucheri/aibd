@@ -1,0 +1,4 @@
+0. Garanta que a versão mais nova do python está instalada
+1. Abra o cmd/terminal e vá até a pasta em que o projeto se encontra (ex.: cd C:\Users\Marcos\PycharmProjects\aibd)
+2. Nesse diretório rode o comando: pip install -r requirements.txt
+3. Rode o arquivo main.py dando 2 cliques nele ou rodando nesse mesmo terminal: python main.py
